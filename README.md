@@ -4,7 +4,7 @@
 ```bash docker-compose.sh```
  
 ## Create new users
-``` http://localhost:3000/newuser ```
+``` http://localhost:3030/newuser ```
 
 ## Show user list 
-``` http://localhost:3000/userlist ```
+``` http://localhost:3030/userlist ```
